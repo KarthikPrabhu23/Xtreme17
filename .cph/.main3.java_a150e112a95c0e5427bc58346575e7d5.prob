@@ -1,0 +1,1 @@
+{"name":"Local: main3","url":"c:\\Users\\Karthik Prabhu\\Desktop\\Xtreme\\main3.java","tests":[{"id":1698520601974,"input":"2\nK T 3\n2 J 5 J\nT A T\nT T J","output":"player 2\ndraw"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Karthik Prabhu\\Desktop\\Xtreme\\main3.java","group":"local","local":true}
